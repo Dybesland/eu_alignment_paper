@@ -5,6 +5,8 @@ Paper on the EU's quantification of foreign policy alignment for accession count
 
 Folder structure (Update when adding) 
 
+.
+
 ├── LICENSE
 
 ├── R
@@ -14,5 +16,7 @@ Folder structure (Update when adding)
 ├── admin
 
 ├── data
+
+│   └── statements_01.xlsx
 
 └── main_documents
